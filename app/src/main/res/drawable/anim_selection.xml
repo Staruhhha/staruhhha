@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:duration = "200" android:drawable="@mipmap/dance1"/>
+<item android:duration = "200" android:drawable="@mipmap/dance2"/>
+<item android:duration = "200" android:drawable="@mipmap/dance3"/>
+<item android:duration = "200" android:drawable="@mipmap/dance4"/>
+<item android:duration = "200" android:drawable="@mipmap/dance5"/>
+<item android:duration = "200" android:drawable="@mipmap/dance6"/>
+<item android:duration = "200" android:drawable="@mipmap/dance7"/>
+<item android:duration = "200" android:drawable="@mipmap/dance8"/>
+<item android:duration = "200" android:drawable="@mipmap/dance9"/>
+<item android:duration = "200" android:drawable="@mipmap/dance10"/>
+<item android:duration = "200" android:drawable="@mipmap/dance11"/>
+</animation-list>
